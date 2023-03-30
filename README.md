@@ -21,3 +21,4 @@ mongoDB = Database.
 
 express = web framework for node.js
 mongoose = object modeling for node.js
+SSL = Secure Sockets Layer
